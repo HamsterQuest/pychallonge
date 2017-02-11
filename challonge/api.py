@@ -1,7 +1,7 @@
 import decimal
 import iso8601
 try:
-    # For Python 3.0 and later
+    # For Python 3.0 and later 
     from urllib.parse import urlencode
     from urllib.request import Request, HTTPBasicAuthHandler, build_opener
     from urllib.error import HTTPError
